@@ -1,16 +1,22 @@
-### Hi there 👋
+![alt README header](https://github.com/cinganolorenzo/cinganolorenzo/raw/main/logo.jpg)
 
-<!--
-**cinganolorenzo/cinganolorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Developer (Java, Spring & React)
 
-Here are some ideas to get you started:
+🔭 Currently working at Nexi Digital, an Italian digital payments company. I work with great people and we are using great technologies! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Long story short:
+
+🥑 Eat 💻 Code 🎄 Walk ♻️ Repeat
+
+
+🌎 Check my [portfolio](https://portfolio.cingano.me/)
+
+I'm actively expanding my knowledge through side projects! 
+
+Feel free to reach out 💬
+
+<div align="center" style="background:#414a50; padding: 25px 0;">
+     <a href="https://www.linkedin.com/in/lorenzo-cingano-5aa951223/">
+        <img src="https://github.com/cinganolorenzo/cinganolorenzo/raw/main/linkedin_logo.png" alt="Connect on Linkedin">
+    </a>
+</div>
