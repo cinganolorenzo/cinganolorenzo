@@ -6,7 +6,7 @@
 
 Long story short:
 
-🥑 Eat 💻 Code 🎄 Walk ♻️ Repeat
+🥑 Eat 💻 Code 💤 Sleep ♻️ Repeat
 
 
 🌎 Check my [portfolio](https://portfolio.cingano.me/)
